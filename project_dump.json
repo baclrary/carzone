@@ -1,0 +1,1738 @@
+[
+{
+    "model": "sessions.session",
+    "pk": "bmkrk5q7r8wwqtmkmvw193qn04pkhkf8",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hAGKBSX7j0DmWFAqoYmpV0Z765NutDtf-_9l4i4rTVuPS9xYnEWIE6_G2F65LYDvmO7zTLNbV0mkrsiD9rldeb8vBzu30HFXr81AQBpyFxc8sQ8QHF6YEzKozFjsWxyQoUELiSNwRcVFBFb50bjLYj3BwK5OEg:1qmuTN:nmzwvk8SA_lWFUdQ86T559bqG_fVlAytTMu7UyZc26s",
+        "expire_date": "2023-10-15T11:18:53.574Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ek0ot8a48yzzyhzd6kfb01yd7j9vmstx",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hAGKBSX7j0DmWFAqoYmpV0Z765NutDtf-_9l4i4rTVuPS9xYnEWIE6_G2F65LYDvmO7zTLNbV0mkrsiD9rldeb8vBzu30HFXr81AQBpyFxc8sQ8QHF6YEzKozFjsWxyQoUELiSNwRcVFBFb50bjLYj3BwK5OEg:1qlVNS:L-r4xqG_ZKC-LP3-UQ8WXxNzMp-3sZeooJbuS4KImsg",
+        "expire_date": "2023-10-11T14:18:58.468Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "gmzy9w0av7wte6r6rsvnm90vrc8dmptm",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hAGKBSX7j0DmWFAqoYmpV0Z765NutDtf-_9l4i4rTVuPS9xYnEWIE6_G2F65LYDvmO7zTLNbV0mkrsiD9rldeb8vBzu30HFXr81AQBpyFxc8sQ8QHF6YEzKozFjsWxyQoUELiSNwRcVFBFb50bjLYj3BwK5OEg:1qkWuh:AMyVL1HHEu95B_P3DV2VwHBb2wqPpnw7MqMzhNszcAM",
+        "expire_date": "2023-10-08T21:45:15.295Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "koj8p29g9cgjvydf7jaj3tafrhi0nfek",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQRO_iGln-JcpS0nMGa71r4wCypTipIu6OI6WAZop5b2YXHrc1-63Fxc8srkKLy28XkF6xHICfWB5VUi3rMgd5KPKkTd4rx_ftdP8OMrbc1wbRTAbYGROVMj0RhkhoLTg3kFKj1mQJIBKnlCCkKaByI3cNdQDx-QLWdTgg:1rD8cN:uHhtFZOQ6HQE12ndIQJoASang_B2zgndXf5eczsFWaw",
+        "expire_date": "2023-12-26T19:40:35.696Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "example.com",
+        "name": "example.com"
+    }
+},
+{
+    "model": "accounts.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$N1lrBKCYaLjYPOXNSG7r2P$zJxK3aJvBzeFpxPNYnNWGsnr9pKubX3PwznsaNj/5sY=",
+        "last_login": "2023-12-12T19:40:35.686Z",
+        "is_superuser": true,
+        "first_name": "Ihor",
+        "last_name": "Protsak",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-12-10T15:16:28Z",
+        "email": "admin@admin.com",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$Sbt8lId7zKAaYyPbFbC1Q0$9GXCn6WWrXvpY26HSv2vdJLeCpP8ZPGYx01kisEPVdY=",
+        "last_login": "2023-12-10T15:26:57.134Z",
+        "is_superuser": false,
+        "first_name": "Iho",
+        "last_name": "Iho",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-12-10T15:26:56.781Z",
+        "email": "ihor@gmail.com",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$cA7RTV134TJklgG8TATCUD$TkgJsnV7IPXHE+9l69LEQkJ8gARQKaWel7rLDn4aYH4=",
+        "last_login": "2023-12-10T15:29:08.748Z",
+        "is_superuser": false,
+        "first_name": "sfdsfds",
+        "last_name": "sfdsfds",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-12-10T15:29:08.409Z",
+        "email": "sfdsfds@gmail.com",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.customuser",
+    "fields": {
+        "password": "!bYUZ4WG8MBWrVOrWTxFSWDxe5OlK5a1k0ctentMT",
+        "last_login": "2023-12-10T18:47:52Z",
+        "is_superuser": true,
+        "first_name": "Ihor",
+        "last_name": "P",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-12-10T18:42:08Z",
+        "email": "ihorprotsak@gmail.com",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 1,
+    "fields": {
+        "first_name": "Ivan",
+        "last_name": "Chernei",
+        "designation": 1,
+        "photo": "photos/2023/09/25/car-2.jpg",
+        "facebook_link": "http://127.0.0.1:8000/admin/pages/team/add/",
+        "twitter_link": "http://127.0.0.1:8000/admin/pages/team/add/",
+        "instagram_link": "http://127.0.0.1:8000/admin/pages/team/add/",
+        "created_date": "2023-09-25T19:16:40.022Z"
+    }
+},
+{
+    "model": "pages.office",
+    "pk": 1,
+    "fields": {
+        "name": "Downtown Headquarters",
+        "street": "123 Elm Street",
+        "city": "Metropolis",
+        "state": "New York",
+        "country": "USA",
+        "phone": "+380996836211",
+        "email": "downtownhq@example.com",
+        "main_photo": "0",
+        "photo_2": "",
+        "photo_3": "",
+        "photo_4": "",
+        "created_at": "2023-09-25T17:04:50.405Z",
+        "updated_at": "2023-09-25T19:20:50.931Z"
+    }
+},
+{
+    "model": "pages.office",
+    "pk": 2,
+    "fields": {
+        "name": "Hollywood District Office",
+        "street": "456 Star Blvd",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "USA",
+        "phone": "+380996315811",
+        "email": "hollywood.office@example.com",
+        "main_photo": "offices/2023/09/27/pexels-pixabay-269077.jpg",
+        "photo_2": "",
+        "photo_3": "",
+        "photo_4": "",
+        "created_at": "2023-09-27T21:02:56.056Z",
+        "updated_at": "2023-09-27T21:02:56.056Z"
+    }
+},
+{
+    "model": "pages.officehours",
+    "pk": 1,
+    "fields": {
+        "office": 1,
+        "day": "Monday",
+        "open_hour": "7",
+        "open_minute": "30",
+        "close_hour": "20",
+        "close_minute": "0"
+    }
+},
+{
+    "model": "pages.officehours",
+    "pk": 3,
+    "fields": {
+        "office": 1,
+        "day": "Tuesday",
+        "open_hour": "2",
+        "open_minute": "25",
+        "close_hour": "4",
+        "close_minute": "25"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "title": "Volvo",
+        "price": 120000,
+        "description": "<p>super car</p>",
+        "brand": "Volvo",
+        "model": "Volvo-model",
+        "year": 2020,
+        "main_photo": "cars/2023/09/27/1901478607.jpg",
+        "photo_2": "cars/2023/09/27/1901478618.jpg",
+        "photo_3": "cars/2023/09/27/1901478646.jpg",
+        "photo_4": "cars/2023/09/27/1901478672.jpg",
+        "photo_5": "cars/2023/10/01/1896836887.jpg",
+        "is_featured": true,
+        "created_at": "2023-09-27T20:43:19.925Z",
+        "address": [
+            1,
+            2
+        ]
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "title": "Mercedes1",
+        "price": 34000,
+        "description": "<p>mercedes</p>",
+        "brand": "mercedes-benz",
+        "model": "mercedes-model",
+        "year": 2020,
+        "main_photo": "cars/2023/10/01/1902536891.jpg",
+        "photo_2": "",
+        "photo_3": "",
+        "photo_4": "",
+        "photo_5": "",
+        "is_featured": false,
+        "created_at": "2023-10-01T11:52:58.266Z",
+        "address": [
+            1
+        ]
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "title": "Test car 3",
+        "price": 65999,
+        "description": "<p>mcvxz</p>",
+        "brand": "mercedes",
+        "model": "mercedes-model",
+        "year": 2020,
+        "main_photo": "cars/2023/10/01/1894300894.jpg",
+        "photo_2": "",
+        "photo_3": "",
+        "photo_4": "",
+        "photo_5": "",
+        "is_featured": true,
+        "created_at": "2023-10-01T11:54:24.150Z",
+        "address": [
+            2
+        ]
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "title": "Test car 4",
+        "price": 45922,
+        "description": "<p>dsad</p>",
+        "brand": "none",
+        "model": "none",
+        "year": 2020,
+        "main_photo": "cars/2023/10/01/1902932503.jpg",
+        "photo_2": "",
+        "photo_3": "",
+        "photo_4": "",
+        "photo_5": "",
+        "is_featured": true,
+        "created_at": "2023-10-01T12:04:01.489Z",
+        "address": [
+            1,
+            2
+        ]
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "title": "Test car 5",
+        "price": 53243242,
+        "description": "<p>adsad</p>",
+        "brand": "none",
+        "model": "none",
+        "year": 2020,
+        "main_photo": "cars/2023/10/01/1893633875.jpg",
+        "photo_2": "",
+        "photo_3": "",
+        "photo_4": "",
+        "photo_5": "",
+        "is_featured": true,
+        "created_at": "2023-10-01T12:04:32.480Z",
+        "address": [
+            1
+        ]
+    }
+},
+{
+    "model": "cars.carattribute",
+    "pk": 1,
+    "fields": {
+        "name": "Engine"
+    }
+},
+{
+    "model": "cars.carattribute",
+    "pk": 2,
+    "fields": {
+        "name": "Fuel type"
+    }
+},
+{
+    "model": "cars.carattribute",
+    "pk": 3,
+    "fields": {
+        "name": "Doors"
+    }
+},
+{
+    "model": "cars.carattribute",
+    "pk": 4,
+    "fields": {
+        "name": "Top speed"
+    }
+},
+{
+    "model": "cars.carattribute",
+    "pk": 5,
+    "fields": {
+        "name": "Gear box"
+    }
+},
+{
+    "model": "cars.carattribute",
+    "pk": 6,
+    "fields": {
+        "name": "Color"
+    }
+},
+{
+    "model": "cars.carattribute",
+    "pk": 8,
+    "fields": {
+        "name": "Mileage"
+    }
+},
+{
+    "model": "cars.carattribute",
+    "pk": 9,
+    "fields": {
+        "name": "Body type"
+    }
+},
+{
+    "model": "cars.carattributevalue",
+    "pk": 1,
+    "fields": {
+        "car": 1,
+        "attribute": 1,
+        "value": "2.0"
+    }
+},
+{
+    "model": "cars.carattributevalue",
+    "pk": 2,
+    "fields": {
+        "car": 1,
+        "attribute": 2,
+        "value": "Petrol/Electro"
+    }
+},
+{
+    "model": "cars.carattributevalue",
+    "pk": 3,
+    "fields": {
+        "car": 1,
+        "attribute": 3,
+        "value": "4"
+    }
+},
+{
+    "model": "cars.carattributevalue",
+    "pk": 4,
+    "fields": {
+        "car": 1,
+        "attribute": 4,
+        "value": "300"
+    }
+},
+{
+    "model": "cars.carattributevalue",
+    "pk": 5,
+    "fields": {
+        "car": 1,
+        "attribute": 5,
+        "value": "Manual"
+    }
+},
+{
+    "model": "cars.carattributevalue",
+    "pk": 6,
+    "fields": {
+        "car": 1,
+        "attribute": 6,
+        "value": "Red"
+    }
+},
+{
+    "model": "cars.carattributevalue",
+    "pk": 8,
+    "fields": {
+        "car": 1,
+        "attribute": 8,
+        "value": "20000 km"
+    }
+},
+{
+    "model": "cars.carattributevalue",
+    "pk": 9,
+    "fields": {
+        "car": 1,
+        "attribute": 9,
+        "value": "SUV"
+    }
+},
+{
+    "model": "cars.carattributevalue",
+    "pk": 10,
+    "fields": {
+        "car": 2,
+        "attribute": 1,
+        "value": "6.0"
+    }
+},
+{
+    "model": "cars.carattributevalue",
+    "pk": 11,
+    "fields": {
+        "car": 3,
+        "attribute": 3,
+        "value": "4"
+    }
+},
+{
+    "model": "cars.carattributevalue",
+    "pk": 12,
+    "fields": {
+        "car": 3,
+        "attribute": 9,
+        "value": "SUV"
+    }
+},
+{
+    "model": "cars.carattributevalue",
+    "pk": 13,
+    "fields": {
+        "car": 3,
+        "attribute": 8,
+        "value": "1000 km"
+    }
+},
+{
+    "model": "cars.carattributevalue",
+    "pk": 14,
+    "fields": {
+        "car": 3,
+        "attribute": 5,
+        "value": "Manual"
+    }
+},
+{
+    "model": "cars.carattributevalue",
+    "pk": 16,
+    "fields": {
+        "car": 4,
+        "attribute": 9,
+        "value": "SUV"
+    }
+},
+{
+    "model": "cars.carattributevalue",
+    "pk": 17,
+    "fields": {
+        "car": 5,
+        "attribute": 1,
+        "value": "2.5"
+    }
+},
+{
+    "model": "cars.carfeature",
+    "pk": 1,
+    "fields": {
+        "name": "ABS"
+    }
+},
+{
+    "model": "cars.carfeatureassociation",
+    "pk": 1,
+    "fields": {
+        "car": 1,
+        "feature": 1
+    }
+},
+{
+    "model": "cars.carfeatureassociation",
+    "pk": 2,
+    "fields": {
+        "car": 2,
+        "feature": 1
+    }
+},
+{
+    "model": "cars.carfeatureassociation",
+    "pk": 3,
+    "fields": {
+        "car": 3,
+        "feature": 1
+    }
+},
+{
+    "model": "cars.carfeatureassociation",
+    "pk": 4,
+    "fields": {
+        "car": 4,
+        "feature": 1
+    }
+},
+{
+    "model": "cars.carfeatureassociation",
+    "pk": 5,
+    "fields": {
+        "car": 5,
+        "feature": 1
+    }
+},
+{
+    "model": "social_django.usersocialauth",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "ihorprotsak@gmail.com"
+        ],
+        "provider": "google-oauth2",
+        "uid": "ihorprotsak@gmail.com",
+        "extra_data": {
+            "expires": 3599,
+            "auth_time": 1702234072,
+            "token_type": "Bearer",
+            "access_token": "ya29.a0AfB_byAOwvSSN2o1O4nSWjdovZ2ntyPVLvGIETuT1kneBTtqMxosYptREHgRr2Hs7DNybZs-Db4clbjsbr5iwZ3YmvOMPc86IEmn_SCq-kv7A0FmSMsnWJds4uLzHVhVRBNWqtwOnEwmVL6CG2j2IPwYi6wmb0_M7wpzaCgYKAfUSARISFQHGX2MiVHySRHUAs3k0ksfoENpTBg0171"
+        },
+        "created": "2023-12-10T18:42:08.129Z",
+        "modified": "2023-12-10T18:47:52.853Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-09-24T21:45:34.684Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "carattribute"
+        ],
+        "object_id": "1",
+        "object_repr": "Engine",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-09-24T21:45:38.461Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "carfeature"
+        ],
+        "object_id": "1",
+        "object_repr": "ABS",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-09-24T21:45:41.347Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Car attribute\", \"object\": \"2.0\"}}, {\"added\": {\"name\": \"Car feature\", \"object\": \"CarFeatureAssociation object (1)\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-09-25T17:04:50.411Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "pages",
+            "office"
+        ],
+        "object_id": "1",
+        "object_repr": "Office object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"office hours\", \"object\": \"OfficeHours object (1)\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-09-25T19:16:40.025Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Ivan Chernei",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-09-25T19:19:49.392Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "pages",
+            "office"
+        ],
+        "object_id": "1",
+        "object_repr": "Downtown Headquarters",
+        "action_flag": 2,
+        "change_message": "[{\"added\": {\"name\": \"office hours\", \"object\": \"Working hour\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-09-25T19:20:43.066Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "pages",
+            "office"
+        ],
+        "object_id": "1",
+        "object_repr": "Downtown Headquarters",
+        "action_flag": 2,
+        "change_message": "[{\"deleted\": {\"name\": \"office hours\", \"object\": \"Day None\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-09-25T19:20:50.935Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "pages",
+            "office"
+        ],
+        "object_id": "1",
+        "object_repr": "Downtown Headquarters",
+        "action_flag": 2,
+        "change_message": "[{\"added\": {\"name\": \"office hours\", \"object\": \"Day 3\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-09-25T19:22:41.553Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-09-25T19:39:12.797Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"In stock at\", \"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-09-25T19:51:19.200Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "carattribute"
+        ],
+        "object_id": "2",
+        "object_repr": "Fuel type",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-09-25T19:51:33.993Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-09-25T19:55:08.385Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "carattribute"
+        ],
+        "object_id": "3",
+        "object_repr": "Doors",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-09-25T19:55:16.368Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-09-25T19:59:48.914Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "carattribute"
+        ],
+        "object_id": "4",
+        "object_repr": "Top speed",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2023-09-25T20:00:10.554Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}, {\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2023-09-27T21:02:56.059Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "pages",
+            "office"
+        ],
+        "object_id": "2",
+        "object_repr": "Hollywood District Office",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2023-09-27T21:03:10.171Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"In stock at\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2023-09-27T21:26:11.775Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}, {\"changed\": {\"name\": \"Car attribute\", \"object\": \"\", \"fields\": [\"Value\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2023-09-27T21:26:52.967Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "carattribute"
+        ],
+        "object_id": "5",
+        "object_repr": "Gear box",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2023-09-27T21:27:06.018Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "carattribute"
+        ],
+        "object_id": "6",
+        "object_repr": "Color",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2023-09-27T21:27:08.415Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "carattribute"
+        ],
+        "object_id": "7",
+        "object_repr": "Year",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2023-09-27T21:27:39.933Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}, {\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}, {\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2023-09-27T21:41:09.644Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo 3\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2023-09-27T21:42:43.336Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2023-09-27T21:43:05.011Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Main photo\", \"Photo 2\", \"Photo 3\", \"Photo 4\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2023-09-27T21:44:08.462Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price in $\", \"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2023-09-27T21:44:25.705Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price in $\", \"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2023-09-27T21:51:40.075Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2023-09-27T21:51:53.730Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2023-10-01T11:19:02.514Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "carattribute"
+        ],
+        "object_id": "8",
+        "object_repr": "Mileage",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2023-10-01T11:19:21.867Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}, {\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2023-10-01T11:22:08.527Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}, {\"changed\": {\"name\": \"Car attribute\", \"object\": \"\", \"fields\": [\"Value\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2023-10-01T11:46:35.639Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "carattribute"
+        ],
+        "object_id": "9",
+        "object_repr": "Body type",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2023-10-01T11:46:44.450Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}, {\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2023-10-01T11:52:58.273Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Test car 2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}, {\"added\": {\"name\": \"Car feature\", \"object\": \"\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2023-10-01T11:54:24.159Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Test car 3",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}, {\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}, {\"added\": {\"name\": \"Car feature\", \"object\": \"\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2023-10-01T11:55:01.226Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Test car 3",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}, {\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2023-10-01T11:55:30.753Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Test car 3",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}, {\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}, {\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}, {\"changed\": {\"name\": \"Car attribute\", \"object\": \"\", \"fields\": [\"Value\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2023-10-01T12:03:15.190Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Test car 3",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2023-10-01T12:04:01.496Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Test car 4",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}, {\"added\": {\"name\": \"Car feature\", \"object\": \"\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2023-10-01T12:04:32.488Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "Test car 5",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Car attribute\", \"object\": \"\"}}, {\"added\": {\"name\": \"Car feature\", \"object\": \"\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2023-10-01T13:22:04.806Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Photo 5\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2023-12-09T21:11:54.973Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2023-12-10T09:24:28.088Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Volvo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Brand\", \"Model\", \"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2023-12-10T09:25:14.284Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Mercedes1",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Brand\", \"Model\", \"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2023-12-10T09:26:05.788Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Test car 3",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Brand\", \"Model\", \"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2023-12-10T09:39:46.342Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "cars",
+            "carattribute"
+        ],
+        "object_id": "7",
+        "object_repr": "Year",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2023-12-10T17:50:15.765Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Google login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2023-12-12T18:38:48.805Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "accounts",
+            "customuser"
+        ],
+        "object_id": "1",
+        "object_repr": "admin@admin.com",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2023-12-12T18:39:36.028Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "accounts",
+            "customuser"
+        ],
+        "object_id": "1",
+        "object_repr": "admin@admin.com",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2023-12-12T19:04:27.948Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "accounts",
+            "customuser"
+        ],
+        "object_id": "4",
+        "object_repr": "ihorprotsak@gmail.com",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Staff status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2023-12-12T19:04:34.468Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "accounts",
+            "customuser"
+        ],
+        "object_id": "4",
+        "object_repr": "ihorprotsak@gmail.com",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Superuser status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2023-12-12T19:05:07.278Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "7",
+        "object_repr": "admin@admin.com - I'm interested in this",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2023-12-12T19:05:07.284Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "6",
+        "object_repr": "ad@gmail.com - I'm interested in this",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+        "action_time": "2023-12-12T19:05:07.286Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "5",
+        "object_repr": "dsa@gmail.com - I'm interested in this",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+        "action_time": "2023-12-12T19:05:07.289Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "4",
+        "object_repr": "asd@gmail.com - I'm interested in this",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+        "action_time": "2023-12-12T19:05:07.291Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "3",
+        "object_repr": "asd@gmail.com - I'm interested in this",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+        "action_time": "2023-12-12T19:05:07.293Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "2",
+        "object_repr": "d@gmail.com - I'm interested in this",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+        "action_time": "2023-12-12T19:05:07.295Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "1",
+        "object_repr": "test@test.com - I'd like to test drive this",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+        "action_time": "2023-12-12T19:10:10.089Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "12",
+        "object_repr": "admin@admin.com - I'm interested in this",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+        "action_time": "2023-12-12T19:10:10.095Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "11",
+        "object_repr": "admin@admin.com - I'm interested in this",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+        "action_time": "2023-12-12T19:10:10.097Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "10",
+        "object_repr": "admin@admin.com - I'm interested in this",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+        "action_time": "2023-12-12T19:10:10.098Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "9",
+        "object_repr": "admin@admin.com - I'm interested in this",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+        "action_time": "2023-12-12T19:10:10.099Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "8",
+        "object_repr": "admin@admin.com - I'm interested in this",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+        "action_time": "2023-12-12T19:26:01.026Z",
+        "user": [
+            "admin@admin.com"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "13",
+        "object_repr": "admin@admin.com - I'm interested in this",
+        "action_flag": 3,
+        "change_message": ""
+    }
+}
+]
